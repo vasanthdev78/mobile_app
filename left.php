@@ -30,7 +30,23 @@
 						<div class="menu-title">Branch</div>
 					</a>
 				</li>
+
+				<li>
+					<a href="stock.php">
+						<div class="parent-icon"><i class='bx bx-cart'></i>
+						</div>
+						<div class="menu-title">Stock</div>
+					</a>
+				</li>
 				
+				<li>
+					<a href="sale.php">
+						<div class="parent-icon"><i class='bx bx-shopping-bag'></i>
+						</div>
+						<div class="menu-title">Sale</div>
+					</a>
+				</li>
+
 				<li>
 					<a href="javascript:;" class="has-arrow">
 						<div class="parent-icon"><i class="bx bx-category"></i>

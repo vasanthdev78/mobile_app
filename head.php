@@ -20,6 +20,7 @@
 	<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500&display=swap" rel="stylesheet">
 	<link href="assets/css/app.css" rel="stylesheet">
 	<link href="assets/css/icons.css" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdn.datatables.net/responsive/2.4.1/css/responsive.dataTables.min.css">
 	
 	<!-- Theme Style CSS -->
 	<link rel="stylesheet" href="assets/css/dark-theme.css"/>
