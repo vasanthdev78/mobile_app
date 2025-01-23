@@ -48,6 +48,14 @@
 				</li>
 
 				<li>
+					<a href="sale_report.php">
+						<div class="parent-icon"><i class='bx bx-bar-chart'></i>
+						</div>
+						<div class="menu-title">Sale Report</div>
+					</a>
+				</li>
+
+				<li>
 					<a href="javascript:;" class="has-arrow">
 						<div class="parent-icon"><i class="bx bx-category"></i>
 						</div>
